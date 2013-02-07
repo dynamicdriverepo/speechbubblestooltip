@@ -1,0 +1,20 @@
+<div>
+
+<div id="speechbubble1" class="speechbubbles">
+Use this tool to easily optimize regular gifs, animated gifs, jpgs, and pngs, so they load as fast as possible.
+</div>
+
+<div id="speechbubble2" class="speechbubbles">
+Create alternating colored horizontal rules quickly <b>with</b> this new Web 2.0 tool. 
+</div>
+
+<div id="speechbubble3" class="speechbubbles">
+Gradient images are used everywhere in web page design, such as the background of form buttons, DIVs, to act as shadows etc. This tool lets you easily generate a gradient image.
+</div>
+
+<div id="speechbubble4" class="speechbubbles">
+Generate a favicon using any regular image with this tool. A favicon is a small, 16x16 image that is shown inside the browser's location bar and bookmark menu when your site is viewed.
+
+</div>
+
+</div>

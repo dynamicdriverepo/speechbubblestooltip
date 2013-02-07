@@ -1,0 +1,25 @@
+{
+  "name": "speechbubblestooltip",
+  "title": "Speech Bubbles Tooltip",
+  "description": "Speech Bubbles Tooltip lets you add tooltips to links using either the value of the link's title attribute, or rich HTML defined all inside a single HTML file and fetched using Ajax instead. The style of the tooltip is modelled after the iconic speech bubble and uses NO images, thanks to the CSS triangle technique.",
+  "keywords": ["tooltip", "bubbles", "rollover", "link"],
+  "version": "1.0.0",
+  "author": {
+    "name": "Dynamic Drive",
+    "email" : "ddrivehelp@gmail.com",
+		"url": "http://www.dynamicdrive.com"
+  },
+  "licenses": [
+    {
+      "type": "Freeware",
+      "url": "http://www.dynamicdrive.com/notice.htm"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.4"
+  },
+  "homepage": "http://www.dynamicdrive.com/dynamicindex5/speechbubblestooltip.htm",
+  "docs": "http://www.dynamicdrive.com/dynamicindex5/speechbubblestooltip.htm",
+  "demo": "http://www.dynamicdrive.com/dynamicindex5/speechbubblestooltip.htm",
+  "download": "http://www.dynamicdrive.com/dynamicindex5/speechbubblestooltip.htm"
+}
